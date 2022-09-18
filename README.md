@@ -1,7 +1,5 @@
 ## Gileade de Jesus do Espirito Santo
 
-##
-
 <div align="center">
   <a href="https://github.com/gjes-cesar-school">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gjes-cesar-school&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
