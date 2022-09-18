@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/gjes-cesar-school">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gjes-cesar-school&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjes-cesar-school&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjes-cesar-school&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
