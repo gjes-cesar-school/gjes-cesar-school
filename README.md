@@ -6,7 +6,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjes-cesar-school&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Skills:
+## Hard Skills:
 
 ###### Main:
   
@@ -28,8 +28,9 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    
   </div>
+
+## Hard Skills:
 
 ##  Connect With Me:
 
